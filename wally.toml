@@ -1,5 +1,5 @@
 [package]
-name = "neuralis-cmdr"
+name = "ddust1n/neuralis-cmdr"
 description = "Extensible command console for Roblox developers"
 version = "0.0.1"
 license = "MIT"
