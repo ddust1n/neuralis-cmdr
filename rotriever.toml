@@ -1,6 +1,6 @@
 [package]
-name = "evaera/Cmdr"
-author = "evaera"
+name = "ddust1n/neuralis-cmdr"
+author = "ddust1n"
 content_root = "Cmdr"
-version = "1.12.0"
+version = "0.0.1"
 license = "MIT"
