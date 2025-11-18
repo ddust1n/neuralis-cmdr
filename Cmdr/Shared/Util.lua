@@ -454,7 +454,7 @@ function Util.MakeAliasCommand(name: string, commandString: string)
 			end
 
 			argOptional = argType and not not argType:match("%?$")
-			argType = if argType then argType:match("^%w+") else "string"
+			-- argType = if argType then argType:match("^%w+") else "string"
 			argName = argName or `Argument {arg}`
 			argDescription = argDescription or ""
 
